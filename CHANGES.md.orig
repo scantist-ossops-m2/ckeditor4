@@ -3,12 +3,6 @@ CKEditor 4 Changelog
 
 ## CKEditor 4.3
 
-**Security Updates:**
-
-* Fixed XSS vulnerability in the Preview plugin reported by Mario Heiderich of [Cure53](https://cure53.de/).
-
-**An upgrade is highly recommended!**
-
 New Features:
 
 * [#10612](http://dev.ckeditor.com/ticket/10612): Internet Explorer 11 support.
